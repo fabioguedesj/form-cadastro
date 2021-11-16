@@ -19,5 +19,5 @@ Formulário de cadastro feito com o intuito de estudar animações em CSS
 ## Preview
 
 <p align="center">
-  <img alt="Cadastro Preview" src=".preview/form-cad.gif" width="400px" />
+  <img alt="Cadastro Preview" src="preview/Form-Cad.gif" width="400px" />
 </p>
