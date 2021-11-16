@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sobre
 
 Formulário de cadastro feito com o intuito de estudar animações em CSS
